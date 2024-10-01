@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Sombrelespoir
 - 👀 I’m interested in C++ & Java
 - 🌱 I’m currently learning computer science at XMU
-- 📫 How to reach me : Yusen_Z@outlook.com || htjz2333@163.com                        
-- 😄 Pronouns: he/him
 
 
 <!---
